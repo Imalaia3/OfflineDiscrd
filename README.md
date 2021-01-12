@@ -1,6 +1,6 @@
 # OfflineDiscrd
 OfflineDiscrd is an SMS based discord client made to be used without network access
-#Info
+<t>Info<\t>
 
 OfflineDiscrd uses a SMS API and A Discord Bot To Monitor A Certain Server And Send the messages through SMS
 watch it being developed at: twitch.tv/imalaia3
